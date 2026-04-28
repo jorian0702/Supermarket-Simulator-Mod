@@ -1,0 +1,41 @@
+# Game files (Steam managed)
+Supermarket Simulator.exe
+Supermarket Simulator_Data/
+MonoBleedingEdge/
+UnityPlayer.dll
+UnityCrashHandler64.exe
+GameAssembly.dll
+baselib.dll
+Save/
+
+# BepInEx runtime files
+BepInEx/
+winhttp.dll
+doorstop_config.ini
+.doorstop_version
+changelog.txt
+
+# Build artifacts
+ModTools/UnlimitedMoneyMod/bin/
+ModTools/UnlimitedMoneyMod/obj/
+ModTools/TempInspector/
+
+# Downloaded files
+ModTools/BepInEx_win_x64.zip
+
+# IDE
+.vs/
+*.user
+*.suo
+
+# Cursor agent files
+agent-tools/
+agent-transcripts/
+mcps/
+terminals/
+
+# Misc
+*.log
+log/
+D3D12/
+Untitled

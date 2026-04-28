@@ -39,3 +39,6 @@ terminals/
 log/
 D3D12/
 Untitled
+dotnet/
+*.png
+*.zip
